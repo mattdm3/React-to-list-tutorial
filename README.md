@@ -1,4 +1,4 @@
-- INSTRUCTIONS
+# INSTRUCTIONS
 
 If you decide to clone this on your computer, open your terminal in the folder of your choice, then type:
 
